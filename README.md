@@ -6,7 +6,8 @@ In addition to signature-based detection, it uses **machine learning-based anoma
 
 ## **How it works**
 
-![WAF Flow](./Hybrid%20WAF_files/WAF%20flow.jpg)
+![WAF Flow](https://github.com/user-attachments/assets/ab066405-d83d-43ce-801e-269eb44bd2f0)
+
 
 
 ## Features
@@ -21,20 +22,13 @@ In addition to signature-based detection, it uses **machine learning-based anoma
 
 ##  Output Screenshots
 
-<p float="left">
-    <img src="./output-screenshots/waf-ss1.png" width="400"/>
-    <img src="./output-screenshots/waf-ss2.png" width="400"/>
-</p>
+<img width="1366" height="637" alt="waf-ss1" src="https://github.com/user-attachments/assets/d505be17-9b50-4a8d-9c3e-53bcc998ebcf" />
+<img width="1362" height="601" alt="waf-ss2" src="https://github.com/user-attachments/assets/0da870a7-f0e6-472f-9671-29f4ae79954f" />
+<img width="1366" height="639" alt="waf-ss3" src="https://github.com/user-attachments/assets/21ecb613-4347-4932-bd42-9ea6dedff530" />
+<img width="1366" height="639" alt="waf-ss4" src="https://github.com/user-attachments/assets/54c5564c-7ab0-4709-a594-c4175e92e868" />
+<img width="1366" height="639" alt="waf-ss5" src="https://github.com/user-attachments/assets/f466b68e-9767-4c2c-a2a0-3d871a9ae0df" />
+<img width="1366" height="639" alt="waf-ss6" src="https://github.com/user-attachments/assets/2a356dea-0613-4f83-90b9-4b29fb98c3f1" />
 
-<p float="left">
-    <img src="./output-screenshots/waf-ss3.png" width="400"/>
-    <img src="./output-screenshots/waf-ss4.png" width="400"/>
-</p>
-
-<p float="left">
-    <img src="./output-screenshots/waf-ss5.png" width="400"/>
-    <img src="./output-screenshots/waf-ss6.png" width="400"/>
-</p>
 
 
 ## Tech Stack
