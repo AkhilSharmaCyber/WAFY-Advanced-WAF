@@ -128,10 +128,10 @@ Host: www.example.com
 
 bash
 ```
-git clone https://github.com/YOUR_USERNAME/Advanced-WAF-WAFinity.git
+git clone https://github.com/AkhilSharmaCyber/WAFY-Advanced-WAF.git
 ```
 ```
-cd Advanced-WAF-WAFinity
+cd WAFY-Advanced-WAF
 ```
 
 2. Install dependencies:
