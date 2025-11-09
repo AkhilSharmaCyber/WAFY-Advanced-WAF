@@ -9,7 +9,6 @@ In addition to signature-based detection, it uses **machine learning-based anoma
 ![WAF Flow](https://github.com/user-attachments/assets/78eb77b9-88e8-41f6-92ae-6c91f30dd1d3)
 
 
-
 ## Features
 
 - 🚫 Block Known Web Attacks
