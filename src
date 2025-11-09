@@ -1,0 +1,5 @@
+    git init
+    git add src # or git add . to add all changes
+    git commit -m "Add src"
+    git remote add origin https://github.com/AkhilSharmaCyber/WAFY-Advanced-WAF
+    git push -u origin main # or your branch name
